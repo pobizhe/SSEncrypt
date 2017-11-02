@@ -1,6 +1,8 @@
 # SSEncrypt.module
 SSEncrypt.module for Surge
 
+作者为 Surge 作者
+
 # MD5 验证
 MDE5:f7653207090ce3389115e9c88541afe0
 
